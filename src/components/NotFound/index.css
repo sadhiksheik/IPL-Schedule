@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.NotFound {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.not-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+}

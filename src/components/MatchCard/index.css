@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.each-container {
+  background-color: #1e293b;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  width: 45%;
+  max-width: 300px;
+}
+.logo {
+  height: 120px;
+  width: 120px;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.paraa {
+  font-size: 15px;
+  color: white;
+}
+.status {
+  font-size: 15px;
+  color: red;
+}

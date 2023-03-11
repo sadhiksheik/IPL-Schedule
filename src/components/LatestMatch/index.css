@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.latest-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #0f172a;
+  padding: 30px;
+  font-family: 'Bree Serif';
+  width: 50%;
+}
+.first-container {
+  display: flex;
+  flex-direction: column;
+}
+.team-head {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+.para {
+  color: white;
+  font-size: 13px;
+}
